@@ -1,0 +1,17 @@
+Collecting onnx
+  Using cached onnx-1.17.0.tar.gz (12.2 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Requirement already satisfied: numpy>=1.20 in c:\users\dhouib\flutter_auth_backend\.venv\lib\site-packages (from onnx) (2.2.5)
+Collecting protobuf>=3.20.2 (from onnx)
+  Using cached protobuf-6.30.2-cp310-abi3-win_amd64.whl.metadata (593 bytes)
+Using cached protobuf-6.30.2-cp310-abi3-win_amd64.whl (431 kB)
+Building wheels for collected packages: onnx
+  Building wheel for onnx (pyproject.toml): started
+  Building wheel for onnx (pyproject.toml): still running...
+  Building wheel for onnx (pyproject.toml): finished with status 'error'
+Failed to build onnx
