@@ -6,7 +6,8 @@
 It enables farmers to detect plant leaf diseases through image analysis and monitor environmental parameters in real time via connected sensors.
 Developed to meet the needs of Tunisian farmers, Green Eye delivers data-driven insights and early alerts to improve crop health, optimize resources, and increase productivity.
 
-At the core of the application lies a trained deep learning model—integrated and deployed directly within the app—that performs real-time detection and classification of leaf diseases based on images captured by the user.
+At the core of the application lies a trained deep learning model-integrated and deployed directly within the app-that perform real-time detection and classification of leaf diseases based on images captured by the user.
+
 ---
 
 🚀 **Features**
