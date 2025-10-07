@@ -12,7 +12,7 @@ At the core of the application lies a trained deep learning model-integrated and
 
 🚀 **Features**
 
--🌱 **AI-Powered Leaf Disease Detection**: integrates a YOLOv12 object detection model capable of identifying and classifying plant diseases from leaf images with high accuracy and speed.
+- 🌱 **AI-Powered Leaf Disease Detection**: integrates a YOLOv12 object detection model capable of identifying and classifying plant diseases from leaf images with high accuracy and speed.
 - 📊 **Sensor Data Integration**: Real-time environmental monitoring (temperature, humidity, soil moisture, etc.).
 - 📸 **Camera Integration**: Capture images directly from the app for diagnosis.
 - 🌐 **User-Friendly Interface**: Simple and intuitive design tailored for farmers.
